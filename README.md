@@ -1,1 +1,10 @@
 # jupyterbookTemplate
+
+
+ ## Enable Write Permissions for GITHUB_TOKEN
+ - Go to your GitHub repository: https://github.com/efsa95/88thArmyBandWebsite
+ - Click Settings (you'll need to be an admin).
+ - On the left sidebar, go to Actions → General
+ - Scroll down to Workflow permissions
+ - Select ✅ Read and write permissions
+ - Click Save
