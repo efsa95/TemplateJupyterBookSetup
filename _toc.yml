@@ -3,7 +3,7 @@ root: README
 parts:
 - caption: Side Option 1
   chapters:
-    - file: Assignment7.md
+    - file: temp1.md
 - caption: Side Option 2
   chapters:
-    - file: loading_data.md
+    - file: temp2.md
