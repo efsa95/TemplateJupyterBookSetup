@@ -3,7 +3,7 @@ root: README
 parts:
 - caption: Side Option 1
   chapters:
-    - file: temp1.md
+    - file: /files/sideOption1/temp1.md
 - caption: Side Option 2
   chapters:
-    - file: temp2.md
+    - file: /files/sideOption1/temp2.md
