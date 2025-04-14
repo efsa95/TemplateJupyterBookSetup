@@ -14,6 +14,7 @@
 - Go to settings and find pages on the left
 - Under Build and Deployment make the source "deploy from branch"
 - set the source to gh-pages in the root
+- If the gh-pages does does not exist you must make a commit to main and the workflow should create it automatically
 - save and make some sort of commit
 - Your website link is now in pages after you make a commit
 
