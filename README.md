@@ -22,6 +22,6 @@
 - _toc.yml is for setting file locations and captions
 - _config.yml is for author names and logos
 - See the docs [here](https://jupyterbook.org/en/stable/intro.html) for more info on customization
-- Note you way want to make this Repo **Private!** Your website will still be **public**.
+- Note you may want to make this Repo **Private!** Your website will still be **public**.
 
 **I did not create Jupyterbook I simply made this template!**
