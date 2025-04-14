@@ -1,7 +1,5 @@
 # Welcome to Your New Website/Portfolio Powered By Jupyterbook!
 
-Click [Here!](https://efsa95.github.io/TemplateJupyterBookSetup/README.html) for a preveiw!
-
 ## Directions 
 
  ### Enable Write Permissions for GITHUB_TOKEN
