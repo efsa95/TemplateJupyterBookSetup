@@ -319,6 +319,7 @@ document.write(`
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#enable-write-permissions-for-github-token">Enable Write Permissions for GITHUB_TOKEN</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#deploy-website-from-branch">Deploy Website from Branch</a></li>
 </ul>
             </nav>
         </div>
@@ -335,12 +336,21 @@ document.write(`
 <section id="enable-write-permissions-for-github-token">
 <h2>Enable Write Permissions for GITHUB_TOKEN<a class="headerlink" href="#enable-write-permissions-for-github-token" title="Permalink to this heading">#</a></h2>
 <ul class="simple">
-<li><p>Go to your GitHub repository: <a class="github reference external" href="https://github.com/efsa95/88thArmyBandWebsite">efsa95/88thArmyBandWebsite</a></p></li>
+<li><p>Go to your GitHub repository</p></li>
 <li><p>Click Settings (you’ll need to be an admin).</p></li>
 <li><p>On the left sidebar, go to Actions → General</p></li>
 <li><p>Scroll down to Workflow permissions</p></li>
 <li><p>Select ✅ Read and write permissions</p></li>
 <li><p>Click Save</p></li>
+</ul>
+</section>
+<section id="deploy-website-from-branch">
+<h2>Deploy Website from Branch<a class="headerlink" href="#deploy-website-from-branch" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Go to settings and find pages on the left</p></li>
+<li><p>Under Build and Deployment make the source “deploy from branch”</p></li>
+<li><p>set the source to gh-pages in the root</p></li>
+<li><p>save and make some sort of commit</p></li>
 </ul>
 </section>
 <div class="toctree-wrapper compound">
@@ -404,6 +414,7 @@ document.write(`
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#enable-write-permissions-for-github-token">Enable Write Permissions for GITHUB_TOKEN</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#deploy-website-from-branch">Deploy Website from Branch</a></li>
 </ul>
   </nav></div>
 
