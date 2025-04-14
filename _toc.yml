@@ -6,4 +6,4 @@ parts:
     - file: files/sideOption1/temp1.md
 - caption: Side Option 2
   chapters:
-    - file: files/sideOption1/temp2.md
+    - file: files/sideOption2/temp2.md
