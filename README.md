@@ -1,5 +1,7 @@
 # Welcome to Your New Website/Portfolio Powered By Jupyterbook!
 
+If you're on the Repo You can see the pinned link to a preview of the website.
+
 ## Directions 
 
  ### Enable Write Permissions for GITHUB_TOKEN
