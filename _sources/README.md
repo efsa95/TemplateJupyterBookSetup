@@ -1,6 +1,6 @@
 # Welcome to Your New Website/Portfolio Powered By Jupyterbook!
 
-If you're on the Repo You can see the pinned link to a preview of the website.
+If you're on the Repo You can see the pinned link on the right to a preview of the website.
 
 ## Directions 
 
